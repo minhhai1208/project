@@ -26,7 +26,7 @@ print(tables)
 # Print the result
 for table in tables:
     print(table)
-
+print("hello")
 # Close the cursor and connection
 cur.close()
 conn.close()
