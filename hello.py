@@ -26,7 +26,12 @@ print(tables)
 # Print the result
 for table in tables:
     print(table)
+<<<<<<< HEAD
 
+=======
+print("hello")
+print("in cho vui")
+>>>>>>> 2521d09a3d11080c07a11dcd2360adc21a2508eb
 # Close the cursor and connection
 cur.close()
 conn.close()
