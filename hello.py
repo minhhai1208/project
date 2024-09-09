@@ -13,7 +13,7 @@ conn = psycopg2.connect(
 cur = conn.cursor()
 
 # Write your SQL query
-sql_query = "SELECT * FROM departments ;"
+sql_query = "SELECT * FROM departments ;g"
 
 
 # Execute the SQL query
