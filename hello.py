@@ -27,6 +27,7 @@ print(tables)
 for table in tables:
     print(table)
 print("hello")
+print("in cho vui")
 # Close the cursor and connection
 cur.close()
 conn.close()
